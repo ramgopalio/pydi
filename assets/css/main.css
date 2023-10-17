@@ -2712,3 +2712,7 @@ section {
 .footer .credits a {
   color: #fff;
 }
+/* CSS for changing the link color on hover within the marquee-container div */
+        .marquee-container a:hover {
+            color: green; /* Change this to the desired color on hover */
+        }
