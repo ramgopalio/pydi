@@ -1,0 +1,20 @@
+{
+  "name": "PYDI AUTOMOTIVE",
+  "short_name": "PYDI",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "assets/img/logo.jpg",
+      "type": "image/jpg",
+      "sizes": "192x192"
+    },
+    {
+      "src": "assets/img/logo.jpg",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
