@@ -10,13 +10,41 @@
       "src": "assets/img/logo.jpg",
       "type": "image/jpg",
       "sizes": "192x192"
+      "purpose": "any"
     },
     {
       "src": "assets/img/logo.jpg",
       "type": "image/png",
       "sizes": "512x512"
+      "purpose": "maskable"
     }
   ],
   "id": "PYDIAUTOMOTIVE",
-  "description": "Discover a range of electric mobility solutions under one roof!"
+  "description": "Discover a range of electric mobility solutions under one roof!",
+  "dir": "auto",
+  "scope": "/index.html",
+  "lang": "en",
+  "orientation": "any",
+  "display_override": [
+    "browser",
+    "standalone",
+    "window-controls-overlay",
+    "minimal-ui",
+    "fullscreen"
+  ],
+  "iarc_rating_id": "e58c174a-81d2-5c3c-32cc-34b8de4a52e9",
+  "prefer_related_applications": false,
+  "shortcuts": [
+    {
+      "name": "PYDI",
+      "url": "https://www.pydiautomotive.com/assets/img/logo.jpg",
+      "description": "Pydi Automotive"
+    }
+  ],
+  "categories": [
+    "shopping"
+  ],
+  "edge_side_panel": {
+    "preferred_width": 400
+  }
 }
