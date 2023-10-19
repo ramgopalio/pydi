@@ -1,4 +1,4 @@
-{
+git {
   "name": "PYDI AUTOMOTIVE",
   "short_name": "PYDI",
   "start_url": "/index.html",
@@ -9,13 +9,13 @@
     {
       "src": "assets/img/logo.jpg",
       "type": "image/jpg",
-      "sizes": "192x192"
+      "sizes": "192x192",
       "purpose": "any"
     },
     {
       "src": "assets/img/logo.jpg",
       "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "512x512",
       "purpose": "maskable"
     }
   ],
